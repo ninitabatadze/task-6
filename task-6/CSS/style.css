@@ -1,0 +1,135 @@
+@font-face {
+font-family: "FiraGO";
+src: url(../FONT/FiraGO-Regular.woff);   
+}
+body{
+box-sizing: border-box;
+position: absolute;
+width: 718px;
+height: 748px;
+left: 281px;
+top: 52px;
+background: #FFFFFF;
+border: 1px solid #F2F2F2;
+border-radius: 10px;
+}
+.sign{
+padding-left: 35px;
+font-family: "FiraGO";
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+color: #000000;
+}
+label{
+padding-left: 35px;
+font-family: "FiraGO";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 31px;
+color: #000000;
+}
+input{
+margin-left: 35px;
+box-sizing: border-box;
+position: absolute;
+width: 616px;
+height: 50px;
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+border-radius: 10px;
+}
+.name1::placeholder{
+position: absolute;
+padding-left: 15px;
+padding-top: 15px;
+}
+.email1{
+padding-left: 35px;
+font-family: "FiraGO";
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 31px;
+color: #000000;
+}
+.mail::placeholder{
+position: absolute;
+padding-left: 15px;
+padding-top: 15px;
+}
+.name1::placeholder{
+position: absolute;
+padding-left: 15px;
+padding-top: 15px;
+}
+.country{
+position: absolute;
+width: 191px;
+height: 14px;
+left: 332px;
+top: 312px;    
+font-family: 'FiraGO';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+color: #000000;        
+}
+.country1::placeholder{
+position: absolute;
+padding-left: 15px;
+padding-top: 15px;
+}
+.aboutyou{
+box-sizing: border-box;
+position: absolute;
+width: 616px;
+height: 148px;
+background: #FFFFFF;
+border: 1px solid #E5E5E5;
+border-radius: 10px;
+}
+.aboutyou::placeholder{
+ position: absolute;
+ padding-left: 15px;
+ padding-top: 15px;
+}
+.password1::placeholder{
+position: absolute;
+padding-left: 15px;
+padding-top: 15px;
+}
+.repassword1::placeholder{
+position: absolute;
+padding-left: 15px;
+padding-top: 15px;  
+}
+#signup {
+width: 205px;
+height: 47px;
+border-radius: 10px;
+background-color: #FFDD04;
+font-family: "FiraGO";
+font-size: 16px;
+font-weight: 400;
+border-color: #FFFFFF;
+border-width: 0;
+margin-left: 462px;
+}
+.thing{
+position: absolute;
+width: 13px;
+height: 28px;
+top: 288px;
+left: 622px;
+font-family: 'Blinker';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #E7E7E7;
+transform: rotate(90deg);
+}
